@@ -11,6 +11,8 @@ This repository contains a comprehensive financial and architectural cost compar
 ├── README.md                     # Project Front Page & Executive Summary
 ├── estimates/
 │   └── screenshots/               # Verified calculator interface captures
+        ├── aws-screenshots
+        ├── azure-screenshots
 └── reports/
     ├── cost-breakdown.md         # Full Markdown report & financial matrices
     └── business-case.txt         # 300-word corporate vendor justification
