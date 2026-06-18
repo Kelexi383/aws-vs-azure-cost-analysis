@@ -10,8 +10,6 @@ This repository contains a comprehensive financial and architectural cost compar
 ```text
 ├── README.md                     # Project Front Page & Executive Summary
 ├── estimates/
-│   ├── aws-pricing-estimate.pdf   # Exported official AWS Calculator PDF
-│   ├── azure-pricing-estimate.pdf # Exported official Azure Calculator PDF
 │   └── screenshots/               # Verified calculator interface captures
 └── reports/
     ├── cost-breakdown.md         # Full Markdown report & financial matrices
