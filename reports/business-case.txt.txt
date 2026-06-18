@@ -1,0 +1,10 @@
+Subject: Cloud Infrastructure Vendor Selection Justification Report
+Business Profile Context: Traditional Microsoft-Centric Enterprise migrating an internal legacy system.
+
+Based on an exhaustive architectural and financial evaluation of our workload specifications, Microsoft Azure is selected as the optimal cloud provider for this infrastructure deployment over Amazon Web Services (AWS). 
+
+While both platforms provide highly capable equivalent infrastructure components, our organizational business context makes Microsoft Azure the clear financial and operational winner. As an established enterprise holding existing on-premises Microsoft licensing agreements, we can immediately leverage the Azure Hybrid Benefit (AHUB). This structural licensing mechanism slashes Windows Server compute markups completely, allowing our web application instances to execute at baseline Linux rates, generating immediate monthly compute savings of over 50% compared to AWS’s retail-bundled pricing model.
+
+Furthermore, because our systems mandate a highly resilient architecture distributed across multiple Availability Zones for continuous failover coverage, Azure's recent policy waiving inter-zone data transfer fees eliminates a major category of unpredictable, variable networking costs. AWS's standard data transfer out charges are also roughly 20% higher than Azure's localized bandwidth tiers, which introduces escalating financial penalties as our consumer traffic volumes grow.
+
+From a long-term total cost of ownership (TCO) standpoint, Azure blends seamlessly with our current corporate agreements, allows us to deploy 1-year Reserved Instances for an additional 35% discount, and protects our operating margins from hidden egress network spikes. Therefore, for an enterprise deeply embedded within the Microsoft ecosystem, Azure delivers superior commercial efficiency, regulatory alignment, and long-term financial sustainability.
